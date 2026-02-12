@@ -299,6 +299,11 @@ geta: # yoda - https://getadinoicu.yodacode.repl.co/dino.png - get a dino from h
   type: CNAME
   value: ef35bb48-f121-4f7f-91f6-93f601559c24.id.repl.co.
 
+hacktive: # Origamibooklover@gmail.com
+  - ttl: 600
+    type: CNAME
+    value: vrhshacktive.github.io.
+
 hacktv:
   - ttl: 600
     type: CNAME
@@ -437,6 +442,11 @@ meta: # meta page
   type: CNAME
   value: cname.vercel-dns.com.
 
+mats: # Contact via: mats@overmans.nl/lltool@overmans.nl/619401@olz.nl(only emergencies)
+  ttl: 600
+  type: CNAME
+  value: mats.overmans.nl.
+
 midnight-status: #DragonSenseiGuy U09H4M0523Z : https://github.com/dragonSenseiGuy/midnight-status
   ttl: 600
   type: A
@@ -462,6 +472,11 @@ nimit: #https://github.com/NimitVijayvargee/nimitvijayvargee.github.io/
   type: CNAME
   value: nimitvijayvargee.github.io.
 
+null: # helioleles@comcast.net Helio Leles (OCI Instance)
+  - ttl: 600
+    type: A
+    value: 129.146.39.117
+
 hacknote: # https://github.com/dispherical/hacknote
   ttl: 600
   type: CNAME
@@ -472,6 +487,10 @@ normie: # normie
   type: CNAME
   value: normie.cc.
 
+numycode: # numycode@pyroforge.dev U0A6U9MEA5D
+  - ttl: 600
+    type: CNAME
+    value: numycode.github.io.
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # use this as an example for your own domain!
 
@@ -541,6 +560,11 @@ qr: # A hack club themed QR code generator
   ttl: 600
   type: CNAME
   value: felixgao.hackclub.app.
+
+richit: # bhatrichit0@gmail.com U0A3VK4GFRN - It is my calendly website. just for fun
+  - ttl: 600
+    type: A
+    value: 216.198.79.1
 
 rr: # Rickroll with a single line of bash
   ttl: 600
@@ -837,6 +861,11 @@ terror:
   ttl: 600 
   type: CNAME 
   value: 4H4CayJ.github.io.
+
+txt: # Noah, slack: U09482L7QP5
+- ttl: 600
+  type: CNAME
+  value: quickest-reena-kwirll-d812f3dc.koyeb.app.
 
 mthlpbs:
   - ttl: 600
